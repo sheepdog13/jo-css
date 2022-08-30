@@ -1,0 +1,9 @@
+.m-box {
+    background-color: cornflowerblue;
+    width: 80%;
+    height: 100px;
+}
+.float-box {
+    float: left;
+    background-color: darkorange;
+}

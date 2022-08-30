@@ -1,0 +1,9 @@
+.title {text-align: center;}
+table {
+    background-color: bisque;
+    border-radius: 0 0 20px 20px;
+    border-collapse: collapse;
+    margin: auto;
+}
+.first { border-bottom: 3px solid red; background-color: orange;}
+td {padding: 5px 10px;}
